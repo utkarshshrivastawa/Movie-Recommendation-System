@@ -28,10 +28,7 @@ Calculates the cosine similarity between the feature vectors of all movies to fi
 ## Example Outputs:
 The script demonstrates two examples where the user inputs "Iron man" and "bat man", respectively, and it provides a list of recommended movies based on the input.
 
-
-https://github.com/utkarshshrivastawa/Movie-Recommendation-System/assets/92841647/39730b63-cc60-4914-956a-4168b5eafd52
-
-
 ## Contributions
 Contributions to this project are welcome! Feel free to fork the repository, make improvements, and submit a pull request. If you encounter any issues or have suggestions, please open an issue on the GitHub repository page.
 ## Demo Videos : 
+https://github.com/utkarshshrivastawa/Movie-Recommendation-System/assets/92841647/39730b63-cc60-4914-956a-4168b5eafd52
