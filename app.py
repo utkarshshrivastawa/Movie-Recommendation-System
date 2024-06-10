@@ -4,7 +4,7 @@ import streamlit as st
 from streamlit_option_menu import option_menu
 
 # Load the saved model and data
-movie_data = pickle.load(open("movie_data.sav", 'rb'))
+movie_data = pickle.load(open("movie_model.sav", 'rb'))
 similarity = pickle.load(open("similarity.sav", 'rb'))
 
 with st.sidebar:
