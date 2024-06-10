@@ -5,7 +5,7 @@ import pandas as pd
 import difflib
 
 # Load the data
-# movie_data = pd.read_csv('movies.csv')
+movie_data = pd.read_csv('movies.csv')
 
 # Load the saved model
 movie_model = pickle.load(open("movie_model.sav", 'rb'))
